@@ -2,7 +2,7 @@
 
 This configuration allows you to play Feral games (macOS) on Mocute gamepads.
 
-This configuration is made for Mocute 058MX, but by changing ProductID you can make any gamepad from this company work.
+This configuration is made for Mocute 054MX, but by changing ProductID you can make any gamepad from this company work.
 
 Controller must be connected with DirectInput mode. To connect press and hold **Power** + **Right** 
 
